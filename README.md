@@ -33,7 +33,7 @@ This project constains the following files:
 
 ## Problem description
 
-Water potability has always been a "hot topic" in many African countries. Having access to drinking or even for other usage - treated water is not always automatic. 
+Water potability has always been a "hot topic" in many African countries. Having access to drinking or even for other usage - treated water is not always easy and automatic. 
 If water sources may be largely available, resources to determine their how much recommandable they can be, are not. 
 Having a service that may facilitate local biologists and researchers such as the service developed out of this [project](https://github.com/dr-zaib/midterm-project) could be a great and useful resource in the analysis and in the consequent potability rate estimation of the water given its characteristics: ph, hardness, solids (Total Dissolved Solids -TDS), chloramines, sulfate, conductivity, organic carbon, trihalomethanes and turbidity. 
 Each of these characteristics are explained more in details [here](https://www.kaggle.com/datasets/adityakadiwal/water-potability) 
