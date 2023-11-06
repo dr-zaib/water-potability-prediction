@@ -1,5 +1,5 @@
 #  WATER POTABILITY PREDICTION SERVICE
-![image](https://github.com/dr-zaib/midterm-project/blob/main/image.jpeg)
+            ![image](https://github.com/dr-zaib/midterm-project/blob/main/image.jpeg)
 
 
 ## Overview 
