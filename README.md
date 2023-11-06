@@ -4,7 +4,7 @@
 
 ## Overview 
 
-This project stands as an evaluation test for the [midterm project](https://github.com/dr-zaib/midterm-project/blob/main/README.md) from the [Machine Learning Zoomcamp course](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master) delivered by [DataTalks Club](https://datatalks.club/slack.html) conducted by [Alexey Grigorev](https://github.com/alexeygrigorev).
+This [project](https://github.com/dr-zaib/midterm-project/tree/main) stands as an evaluation test for the [midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/projects#midterm-project) from the [Machine Learning Zoomcamp course](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master) delivered by [DataTalks Club](https://datatalks.club/slack.html) conducted by [Alexey Grigorev](https://github.com/alexeygrigorev).
 
 #### Project structure
 
